@@ -10,3 +10,5 @@ Beatriz Batista Jorge RA: 1754415 bia.barbie654@gmail.com - Lider<br>
 Henry Gabriel Araujo Oliveira RA: 1432500 henrygbrieloliveira@gmail.com - Membro <br>
 5.	Link de gravação do projeto:
 6.	Link de repositório do GITHUB:
+<br> Lista <br>
+- 7 cabos macho x femea
