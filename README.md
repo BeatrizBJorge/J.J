@@ -8,7 +8,7 @@ Projeto J&amp;J de microcontroladores e IOT do 4º semestre do bacharel de ciên
 <h4> 5.	Turma: 191104A16 <br> 
 Alice Nayumi Harada RA: 1800150 alice.nayumi@outlook.com - Membro<br>
 Beatriz Batista Jorge RA: 1754415 bia.barbie654@gmail.com - Lider<br>
-Henry Gabriel Araujo Oliveira RA: 1432500 henrygbrieloliveira@gmail.com - Membro <br> </h4>
+Henry Gabriel Araujo Oliveira RA: 1432500 henrygbrieloliveira@gmail.com - Membro  HGao@#2023<br> </h4>
 <h5> 6.	Link de gravação do projeto: </h5>
 <h6> 7.	Link de repositório do GITHUB: </h6>
 
