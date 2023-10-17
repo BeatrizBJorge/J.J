@@ -1,40 +1,87 @@
-# J.J
-Projeto J&amp;J de microcontroladores e IOT do 4º semestre do bacharel de ciências da computação 
+# JJ
 
-<h1> 1. Informe o nome da equipe e 2. Qual o nomee do seu projeto:	J & J (João e Jana forever - prêmio best couple) <br>
-   PREDESTINADOS A FICAREM JUNTOS <br> </h1>
-<h2> 3.	Sistema de irrigação automática <br></h2>
-<h3> 4.	descreva em detalhes o projeto </h3>
-<h4> 5.	Turma: 191104A16 <br> 
-Alice Nayumi Harada RA: 1800150 alice.nayumi@outlook.com - Membro<br>
-Beatriz Batista Jorge RA: 1754415 bia.barbie654@gmail.com - Lider<br>
-Henry Gabriel Araujo Oliveira RA: 1432500 henrygbrieloliveira@gmail.com - Membro  HGao@#2023<br> </h4>
-<h5> 6.	Link de gravação do projeto: </h5>
-<h6> 7.	Link de repositório do GITHUB: </h6>
+Projeto 💞 J&amp;J 💞 de microcontroladores e IOT do 4º semestre do bacharel de ciências da computação 
+<strong>🍬 que o henry ta me devendo </strong>
 
-<p> <br> Lista <br> </p>
-O que tem que ter no projeto do git: <br>
-readme: todas as informações do projeto (descrição do projeto legal, sem ser de maneiras ilegais, sem comprar do colega)bem redigida pra ia ler <br> <br>fundação bra: comunicação e escrita, tecnicas de redação <br>
-pastas: 1 pro código fonte, 1 imagens <br>
-apresentação do projeto: link do vídeo, imagens, escrita
+# Badges
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+<br>
+<img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" /> <br>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <br>
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> <br>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" /> <br>
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> <br>
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /> <br>
+Lista de badges ⬇️
+https://github.com/alexandresanlim/Badges4-README.md-Profile
 
-<p> Roteiro do vídeo: </p> <br>
-<strong> Apresentação </strong>
-- Individual <br>
-- Quem é você? <br>
-- Da onde você é? <br>
-- o que você faz no projeto? <br>
 
-   <strong> Projeto </strong> 
-- Sobre: imagem e código fonte <br>
-- Individual: o que cada um fez <br>
-- Mostrar os componentes: físico e rodando os códigos fontes <br>
-- Resultado: conclusão <br>
-- Melhoras: Trabalhos futuros <br>
+# Índice 
 
-   <strong> Repositório github </strong> 
-- README.md: apresentação do projeto, escrita, fotos  e link do vídeo <br>
-- Pastas <br>
-- Código fonte <br>
-- Pasta do projeto (imagem)
+* [Nome da Equipe](#jj)
+* [Badges](#badges)
+* [Índice](#índice)
+* [Nome do Projeto](#nome-do-projeto)
+* [Descrição do Projeto](#descrição-do-projeto)
+* [Integrantes do Projeto](#integrantes)
+* [Status do Projeto](#status-do-projeto)
+* [Apresentação do Projeto](#apresentação-do-projeto)
+* [Link do Vídeo](#link-do-vídeo)
+* [Conclusão](#conclusão)
 
+# Nome-do-projeto
+
+Sistema de Irrigação automática
+
+# Descrição-do-projeto
+
+Descricao do projeto
+
+# Integrantes
+
+Turma: 191104A16
+| [<img src="https://www.tribunapr.com.br/wp-content/uploads/2023/05/01151358/vira-lata-caramelo-AdobeStock.jpg" width=115><br><sub>Alice Nayumi Harada<br> RA:1800150</sub>](https://github.com/Nayu-mi) |  [<img src="https://img.elo7.com.br/product/original/1956E2B/painel-1x0-70-o-poderoso-chefinho-o-poderoso-chefinho.jpg" width=115><br><sub>Beatriz Batista Jorge<br>RA:1754415</sub>](https://github.com/BeatrizBJorge) |  [<img src="https://conteudo.imguol.com.br/c/entretenimento/19/2022/07/13/vikings-1657747090442_v2_450x600.jpg" width=115><br><sub>Henry Gabriel Araujo Oliveira<br>RA: 1432500</sub>](https://github.com/Henrygbriel) |
+| :---: | :---: | :---: |
+| Membro | Líder | Membro |
+| alice.nayumi@outlook.com | bia.barbie654@gmail.com | henrygbrieloliveira@gmail.com |
+
+# Status-do-projeto
+
+<h4 align="center"> 
+    :construction:  Projeto em construção  :construction:
+</h4>
+
+# Apresentação-do-projeto
+componentes: físico e rodando o código
+
+# Link-do-vídeo
+🍬 que o henry ta me devendo
+https://www.usinainfo.com.br/blog/projeto-arduino-de-irrigacao-automatica-sua-planta-sempre-bem-cuidada/
+
+https://youtu.be/oeUNSjOs1ww?si=h60Kyz8tdHiZAxpU
+
+# Conclusão
+Resultado do projeto
+
+# Roteiro do vídeo
+
+🌵 Apresentação
+* Individual
+* Quem é você?
+* Da onde você é?
+* O que você faz no projeto?
+
+🛠️ Projeto
+* Sobre (imagens png e código fonte)
+* Individual o que cada um fez
+* Mostrar os componentes (físico e rodando o código fonte)
+* Resultado (conclusão)
+* Melhoras (trabalhos futuros)
+
+😺 Repositório GitHub
+* READ.ME: apresentação do projeto, escrita, fotos e links
+* Pastas: uma para o código e uma para imagens
+* Código de fonte
+
+<code>The end... <br><br>
+For now 🙀 </code>
