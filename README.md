@@ -1,7 +1,7 @@
 # JJ
 
 Projeto 💞 J&amp;J 💞 de microcontroladores e IOT do 4º semestre do bacharel de ciências da computação 
-<strong>🍬 que o henry ta me devendo </strong>
+
 
 # Badges
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
@@ -55,7 +55,7 @@ Turma: 191104A16
 componentes: físico e rodando o código
 
 # Link-do-vídeo
-🍬 que o henry ta me devendo
+
 https://www.usinainfo.com.br/blog/projeto-arduino-de-irrigacao-automatica-sua-planta-sempre-bem-cuidada/
 
 https://youtu.be/oeUNSjOs1ww?si=h60Kyz8tdHiZAxpU
