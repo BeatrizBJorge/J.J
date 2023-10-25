@@ -35,7 +35,17 @@ Sistema de Irrigação automática
 
 # Descrição-do-projeto
 
-Descricao do projeto
+O Sistema Automatizado de Irrigação para Plantas Pequenas é um projeto desenvolvido para simplificar e aprimorar o processo de irrigação. Utilizando a tecnologia do Arduino Uno R3, este sistema inteligente elimina a necessidade de irrigação manual, garantindo que suas plantas recebam a quantidade certa de água, no momento ideal, sem qualquer intervenção humana.
+
+-- Características
+
+Irrigação Automatizada: O coração do sistema é o Arduino Uno R3, que controla precisamente a irrigação com base em sensores de umidade do solo. Quando o solo atinge um nível de secura pré-definido, o sistema é ativado automaticamente, liberando a quantidade adequada de água para as plantas.
+
+Eficiência Energética: O projeto é altamente eficiente em termos de consumo de energia, garantindo um funcionamento contínuo sem aumentar significativamente os custos de eletricidade.
+
+Simplicidade de Uso: Sua interface intuitiva torna a configuração e monitoramento do sistema extremamente fácil. Qualquer pessoa, independentemente do seu nível de experiência em jardinagem ou eletrônica, pode usar o sistema sem dificuldade.
+
+Economia de Recursos: Ao fornecer a quantidade certa de água no momento certo, o sistema reduz o desperdício de água, contribuindo para a conservação dos recursos naturais.
 
 # Integrantes
 
