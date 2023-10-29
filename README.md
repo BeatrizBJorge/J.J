@@ -71,7 +71,9 @@ https://www.usinainfo.com.br/blog/projeto-arduino-de-irrigacao-automatica-sua-pl
 https://youtu.be/oeUNSjOs1ww?si=h60Kyz8tdHiZAxpU
 
 # Conclusão
-Resultado do projeto
+O sistema de irrigação automático tem como resultado uma agricultura sustentável e à automação residencial inteligente. Já que, elimina a necessidade de irrigação manual, assim o sistema não só economiza tempo e esforço, mas também promove a saúde das plantas ao fornecer a quantidade certa de água no momento adequado.
+O projeto não apenas demonstra a integração de tecnologias como sensores e microcontroladores, mas também oferece espaço para melhorias futuras. A implementação de sensores adicionais, conectividade IoT, aprendizado de máquina e fontes de energia renovável poderia elevar este sistema a novos patamares de eficiência e sustentabilidade.
+Além disso, incorporar conceitos de conservação de água, energia e automação, faz com que este projeto sirva como um exemplo prático de como a tecnologia pode ser aplicada para criar soluções inovadoras e ecoconscientes.
 
 # Roteiro do vídeo
 
