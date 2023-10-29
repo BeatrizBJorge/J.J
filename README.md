@@ -1,6 +1,6 @@
 # JJ
 
-Projeto 💞 J&amp;J 💞 de microcontroladores e IOT do 4º semestre do bacharel de ciências da computação 
+Projeto J&amp;J de microcontroladores e IOT do 4º semestre do bacharel de ciências da computação 
 
 
 # Badges
@@ -12,8 +12,6 @@ Projeto 💞 J&amp;J 💞 de microcontroladores e IOT do 4º semestre do bachare
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" /> <br>
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> <br>
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /> <br>
-Lista de badges ⬇️
-https://github.com/alexandresanlim/Badges4-README.md-Profile
 
 
 # Índice 
@@ -66,9 +64,7 @@ componentes: físico e rodando o código
 
 # Link-do-vídeo
 
-https://www.usinainfo.com.br/blog/projeto-arduino-de-irrigacao-automatica-sua-planta-sempre-bem-cuidada/
-
-https://youtu.be/oeUNSjOs1ww?si=h60Kyz8tdHiZAxpU
+➡️
 
 # Conclusão
 O sistema de irrigação automático tem como resultado uma agricultura sustentável e à automação residencial inteligente. Já que, elimina a necessidade de irrigação manual, assim o sistema não só economiza tempo e esforço, mas também promove a saúde das plantas ao fornecer a quantidade certa de água no momento adequado.
