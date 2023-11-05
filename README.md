@@ -64,7 +64,8 @@ componentes: físico e rodando o código
 
 # Link-do-vídeo
 
-➡️
+➡️ https://youtu.be/6ePyugiG2lc
+OBS: 🤡
 
 # Conclusão
 O sistema de irrigação automático tem como resultado uma agricultura sustentável e à automação residencial inteligente. Já que, elimina a necessidade de irrigação manual, assim o sistema não só economiza tempo e esforço, mas também promove a saúde das plantas ao fornecer a quantidade certa de água no momento adequado.
