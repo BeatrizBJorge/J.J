@@ -48,7 +48,7 @@ Economia de Recursos: Ao fornecer a quantidade certa de água no momento certo, 
 # Integrantes
 
 Turma: 191104A16
-| [<img src="https://www.tribunapr.com.br/wp-content/uploads/2023/05/01151358/vira-lata-caramelo-AdobeStock.jpg" width=115><br><sub>Alice Nayumi Harada<br> RA:1800150</sub>](https://github.com/Nayu-mi) |  [<img src="https://img.elo7.com.br/product/original/1956E2B/painel-1x0-70-o-poderoso-chefinho-o-poderoso-chefinho.jpg" width=115><br><sub>Beatriz Batista Jorge<br>RA:1754415</sub>](https://github.com/BeatrizBJorge) |  [<img src="https://conteudo.imguol.com.br/c/entretenimento/19/2022/07/13/vikings-1657747090442_v2_450x600.jpg" width=115><br><sub>Henry Gabriel Araujo Oliveira<br>RA: 1432500</sub>](https://github.com/Henrygbriel) |
+| [<img src="https://www.tribunapr.com.br/wp-content/uploads/2023/05/01151358/vira-lata-caramelo-AdobeStock.jpg" width=115><br><sub>Alice Nayumi Harada<br> RA:1800150</sub>](https://github.com/Nayu-mi) |  [<img src="https://img.elo7.com.br/product/original/1956E2B/painel-1x0-70-o-poderoso-chefinho-o-poderoso-chefinho.jpg" width=115><br><sub>Beatriz Batista Jorge<br>RA:1754415</sub>](https://github.com/BeatrizBJorge) |  [<img src="ImagensREADME/Captura de tela 2023-11-13 143410.png" width=115><br><sub>Henry Gabriel Araujo Oliveira<br>RA: 1432500</sub>](https://github.com/Henrygbriel) |
 | :---: | :---: | :---: |
 | Membro | Líder | Membro |
 | alice.nayumi@outlook.com | bia.barbie654@gmail.com | henrygbrieloliveira@gmail.com |
@@ -62,10 +62,10 @@ Turma: 191104A16
 
 # Apresentação-do-projeto
 componentes: físico 📸 <br> <br>
-![Imagem1](https://github.com/BeatrizBJorge/J.J/assets/128194589/cfe9375e-bf55-4552-a00c-de1277aa606c)
+<img src="ImagensREADME/Imagem1.jpg">
 <br> <br>
 Código: 💻 <br> <br>
-![Captura de tela 2023-11-13 140946](https://github.com/BeatrizBJorge/J.J/assets/128194589/f2267612-e14a-4188-9f57-e71205473c0d)
+<img src="ImagensREADME/Captura de tela 2023-11-13 140946.png">
 <br>
 # Link-do-vídeo
 
