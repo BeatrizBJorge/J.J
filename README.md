@@ -1,10 +1,10 @@
 # JJ
 
-Projeto J&amp;J de microcontroladores e IOT do 4º semestre do bacharel de ciências da computação 
+Projeto J&amp;J de Microcontroladores e IOT do 4º semestre do Bacharel de Ciências da Computação no Centro Universitário FMU
 
 
 # Badges
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge)
 <br>
 <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" /> <br>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <br>
@@ -35,7 +35,7 @@ Sistema de Irrigação automática
 
 O Sistema Automatizado de Irrigação para Plantas Pequenas é um projeto desenvolvido para simplificar e aprimorar o processo de irrigação. Utilizando a tecnologia do Arduino Uno R3, este sistema inteligente elimina a necessidade de irrigação manual, garantindo que suas plantas recebam a quantidade certa de água, no momento ideal, sem qualquer intervenção humana.
 
--- Características
+<h3> <strong> Características </strong> </h3>
 
 Irrigação Automatizada: O coração do sistema é o Arduino Uno R3, que controla precisamente a irrigação com base em sensores de umidade do solo. Quando o solo atinge um nível de secura pré-definido, o sistema é ativado automaticamente, liberando a quantidade adequada de água para as plantas.
 
@@ -56,16 +56,21 @@ Turma: 191104A16
 # Status-do-projeto
 
 <h4 align="center"> 
-    :construction:  Projeto em construção  :construction:
+    🏁:  Projeto Concluído 🏁:
+    
 </h4>
 
 # Apresentação-do-projeto
-componentes: físico e rodando o código
-
+componentes: físico 📸 <br> <br>
+![Imagem1](https://github.com/BeatrizBJorge/J.J/assets/128194589/cfe9375e-bf55-4552-a00c-de1277aa606c)
+<br> <br>
+Código: 💻 <br> <br>
+![Captura de tela 2023-11-13 140946](https://github.com/BeatrizBJorge/J.J/assets/128194589/f2267612-e14a-4188-9f57-e71205473c0d)
+<br>
 # Link-do-vídeo
 
 ➡️ https://youtu.be/6ePyugiG2lc
-OBS: 🤡
+<br> OBS: 🤡
 
 # Conclusão
 O sistema de irrigação automático tem como resultado uma agricultura sustentável e à automação residencial inteligente. Já que, elimina a necessidade de irrigação manual, assim o sistema não só economiza tempo e esforço, mas também promove a saúde das plantas ao fornecer a quantidade certa de água no momento adequado.
@@ -83,7 +88,7 @@ Além disso, incorporar conceitos de conservação de água, energia e automaç�
 🛠️ Projeto
 * Sobre (imagens png e código fonte)
 * Individual o que cada um fez
-* Mostrar os componentes (físico e rodando o código fonte)
+* Mostrar os componentes (físico e código fonte)
 * Resultado (conclusão)
 * Melhoras (trabalhos futuros)
 
