@@ -69,7 +69,7 @@ Código: 💻 <br> <br>
 <br>
 # Link-do-vídeo
 
-➡️ https://youtu.be/6ePyugiG2lc
+➡️ https://youtu.be/LYyugVDsl18
 <br> OBS: 🤡
 
 # Conclusão
